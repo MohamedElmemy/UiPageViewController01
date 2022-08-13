@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  UiPageViewController
+
+  Created by Ahmed Elmemy on 12/08/2022.
+  
+*/
+"Next" = "التالي";
+"image1" = "صورة١";
+"image2" = "صورة٢";
+"image3" = "صورة٣";
+"image4" = "صورة٤";
+"image5" = "صورة٥";
+"Get Started" = "ابدأ";
+"LanguageButton" = "Lang:English";
+"Alert" = "تنبيه";
+"Message" = "رسالة";
+"Launch" = "تم تغير اللغة بنجاح";
